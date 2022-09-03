@@ -1,0 +1,17 @@
+{
+	"name": "nora",
+	"version": "1.0.2",
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"publisher": "nijat ibrahimov",
+	"contributes": {
+		"themes": [
+			{
+				"label": "nora",
+				"uiTheme": "vs-dark",
+				"path": "./nora-color-theme.json"
+			}
+		]
+	}
+}
