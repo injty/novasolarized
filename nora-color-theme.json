@@ -458,7 +458,7 @@
       "name": "Meta tag",
       "scope": "meta.tag",
       "settings": {
-        "foreground": "#768296"
+        "foreground": "#a6b2c7"
       }
     },
     {
@@ -507,7 +507,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#a6b2c7"
+        "foreground": "#768296"
       }
     },
     {
@@ -1133,7 +1133,7 @@
       "name": "elements to dim",
       "scope": ["punctuation.definition.tag.xi"],
       "settings": {
-        "foreground": "#768296"
+        "foreground": "#a6b2c7"
       }
     },
     {
