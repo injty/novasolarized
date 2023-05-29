@@ -1,2 +1,2 @@
 # nora theme.
-![image](/images/nora.png)
+![image](images/nora.png)

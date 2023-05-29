@@ -1,1 +1,2 @@
-/langs
+node_modules
+*.vsix

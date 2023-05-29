@@ -19,16 +19,5 @@
         "path": "./nora-color-theme.json"
       }
     ]
-  },
-  "__metadata": {
-    "id": "35add22b-3fad-4bd3-96c0-1e7f142570bc",
-    "publisherId": "1a25c18d-f2d6-4ff5-a6c5-67873412b093",
-    "publisherDisplayName": "nora theme",
-    "targetPlatform": "undefined",
-    "isApplicationScoped": false,
-    "updated": true,
-    "isPreReleaseVersion": false,
-    "installedTimestamp": 1685355888658,
-    "preRelease": false
   }
 }
