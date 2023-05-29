@@ -1,17 +1,34 @@
 {
-	"name": "nora",
-	"version": "1.0.3",
-	"engines": {
-		"vscode": "^1.22.0"
-	},
-	"publisher": "nijat ibrahimov",
-	"contributes": {
-		"themes": [
-			{
-				"label": "nora",
-				"uiTheme": "vs-dark",
-				"path": "./nora-color-theme.json"
-			}
-		]
-	}
+  "name": "noratheme",
+  "displayName": "nora",
+  "version": "1.0.3",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "icon": "images/nora-theme-logo.png",
+  "publisher": "noratheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nijatibrahimov/nora-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "nora",
+        "uiTheme": "vs-dark",
+        "path": "./nora-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "35add22b-3fad-4bd3-96c0-1e7f142570bc",
+    "publisherId": "1a25c18d-f2d6-4ff5-a6c5-67873412b093",
+    "publisherDisplayName": "nora theme",
+    "targetPlatform": "undefined",
+    "isApplicationScoped": false,
+    "updated": true,
+    "isPreReleaseVersion": false,
+    "installedTimestamp": 1685355888658,
+    "preRelease": false
+  }
 }
