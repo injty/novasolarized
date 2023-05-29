@@ -1,7 +1,7 @@
 {
   "name": "noratheme",
   "displayName": "nora",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.22.0"
   },
