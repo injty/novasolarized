@@ -5,7 +5,7 @@
   "engines": {
     "vscode": "^1.22.0"
   },
-  "icon": "images/nora-theme-logo.png",
+  "icon": "images/logo.png",
   "publisher": "noratheme",
   "repository": {
     "type": "git",
