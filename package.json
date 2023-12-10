@@ -1,25 +1,20 @@
 {
-  "name": "noratheme",
-  "displayName": "nora",
-  "version": "2.1.0",
+  "name": "novasolarized",
+  "displayName": "Novasolarized",
+  "version": "3.0.0",
   "engines": {
     "vscode": "^1.22.0"
   },
   "icon": "images/logo.png",
-  "publisher": "noratheme",
+  "publisher": "injty",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nijatibrahimov/nora-theme"
+    "url": "https://github.com/injty/novasolarized"
   },
   "contributes": {
     "themes": [
       {
-        "label": "nora",
-        "uiTheme": "vs-dark",
-        "path": "./nora-color-theme.json"
-      },
-      {
-        "label": "novasolarized",
+        "label": "Novasolarized",
         "uiTheme": "vs-dark",
         "path": "./novasolarized-color-theme.json"
       }
