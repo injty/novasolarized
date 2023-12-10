@@ -1,7 +1,7 @@
 {
   "name": "novasolarized",
   "displayName": "Novasolarized",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "engines": {
     "vscode": "^1.22.0"
   },
