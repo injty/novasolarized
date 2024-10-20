@@ -1,6 +1,20 @@
-# novasolarized.
+<div align="center">
 
-dark colorscheme for vscode, based on: [solarized](https://ethanschoonover.com/solarized) && [neosolarized](https://github.com/overcache/NeoSolarized).
+# NOVASOLARIZED
 
-preview:
+<p align="center">
+novasolarized vscode color theme.
+</p>
+
 ![image](images/novasolarized.png)
+
+![image](images/novasolarized-menu.png)
+
+</div>
+
+dark colorscheme for vscode based on:
+[Solarized](https://ethanschoonover.com/solarized) and [NeoSolarized](https://github.com/overcache/NeoSolarized).
+
+## License
+
+[MIT License](LICENSE)
