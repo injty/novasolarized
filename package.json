@@ -1,7 +1,7 @@
 {
   "name": "novasolarized",
   "displayName": "Novasolarized",
-  "version": "5.1.0",
+  "version": "6.0.0",
   "engines": {
     "vscode": "^1.22.0"
   },
@@ -19,7 +19,7 @@
       {
         "label": "Novasolarized",
         "uiTheme": "vs-dark",
-        "path": "./novasolarized-color-theme.json"
+        "path": "./novasolarized.json"
       },
       {
         "label": "Novasolarized Bordered",
