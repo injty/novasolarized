@@ -1,5 +1,5 @@
 {
-  "name": "novasolarized",
+  "name": "Novasolarized",
   "semanticHighlighting": false,
   "colors": {
     "activityBar.activeBackground": "#0000",
@@ -114,7 +114,6 @@
     "peekViewTitleDescription.foreground": "#919ba1",
     "peekViewTitleLabel.foreground": "#b58900",
     "peekViewEditor.matchHighlightBackground": "#213b46",
-    // dark mode
     "editor.background": "#05161e",
     "editorGutter.background": "#05161e",
     "statusBar.background": "#001b26",
@@ -123,7 +122,7 @@
     "activityBar.background": "#112b36",
     "activityBar.border": "#001b2600",
     "editorGroupHeader.tabsBorder": "#00000000",
-    "editorGroupHeader.tabsBackground": "#08202b",
+    "editorGroupHeader.tabsBackground": "#08202b"
   },
   "tokenColors": [
     {

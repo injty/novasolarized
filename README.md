@@ -6,7 +6,7 @@
 
 ### <i>NOVASOLARIZED</i>
 
-<i>novasolarized vscode color theme.</i>
+<i>Novasolarized Vscode Color Theme.</i>
 
 </p>
 
@@ -14,8 +14,10 @@
 
 ![image](images/novasolarized.png)
 
+![image](images/novasolarized-gentle.png)
+
 <i>dark colorscheme for vscode based on:
-[Solarized](https://ethanschoonover.com/solarized) and [NeoSolarized](https://github.com/overcache/NeoSolarized).
+[Solarized](https://ethanschoonover.com/solarized), [NeoSolarized](https://github.com/overcache/NeoSolarized), [Gentle Dark](https://github.com/gentlelionstudios/gentle-dark-zed)
 </i>
 
 

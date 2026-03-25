@@ -1,7 +1,7 @@
 {
   "name": "novasolarized",
-  "displayName": "NovaSolarized",
-  "version": "4.0.1",
+  "displayName": "Novasolarized",
+  "version": "5.1.0",
   "engines": {
     "vscode": "^1.22.0"
   },
@@ -11,13 +11,25 @@
     "type": "git",
     "url": "https://github.com/injty/novasolarized"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "novasolarized",
+        "label": "Novasolarized",
         "uiTheme": "vs-dark",
         "path": "./novasolarized-color-theme.json"
+      },
+      {
+        "label": "Novasolarized Bordered",
+        "uiTheme": "vs-dark",
+        "path": "./novasolarized-bordered.json"
+      },
+      {
+        "label": "Novasolarized Gentle",
+        "uiTheme": "vs-dark",
+        "path": "./novasolarized-gentle.json"
       }
     ]
   }
