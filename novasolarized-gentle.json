@@ -48,14 +48,15 @@
     "editorGroupHeader.tabsBackground": "#1C364A",
     "editorGroupHeader.tabsBorder": "#00000000",
     "editorGroupHeader.noTabsBackground": "#122330",
+    "editorGroupHeader.border": "#00000000",
 
     "tab.activeBackground": "#152837",
     "tab.activeForeground": "#B5B3AD",
     "tab.activeBorder": "#00000000",
-    "tab.activeBorderTop": "#6D8FB7",
+    "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#1C364A",
     "tab.inactiveForeground": "#62717D",
-    "tab.border": "#00000000",
+    "tab.border": "#36424c",
     "tab.hoverForeground": "#A6D0D9",
     "tab.unfocusedInactiveForeground": "#62717D",
 
@@ -64,12 +65,12 @@
     "titleBar.activeForeground": "#B5B3AD",
     "titleBar.inactiveBackground": "#122330",
     "titleBar.inactiveForeground": "#62717D",
-    "titleBar.border": "#00000000",
+    "titleBar.border": "#36424c",
 
 
-    "statusBar.background": "#1C364ACB",
+    "statusBar.background": "#152837",
     "statusBar.foreground": "#B5B3AD",
-    "statusBar.border": "#00000000",
+    "statusBar.border": "#36424C",
     "statusBar.debuggingBackground": "#1C364ACB",
     "statusBar.noFolderBackground": "#122330",
     "statusBarItem.remoteBackground": "#489D8F",
